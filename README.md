@@ -1,4 +1,4 @@
-## DappRadar Findings 
+## 💰DappRadar Findings💰
 
 ### DappRadar API Category - Product Catalog
 #### Table of Contents
