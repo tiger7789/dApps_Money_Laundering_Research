@@ -1,0 +1,11 @@
+dappId,name,transactions,transactionsPercentageChange,uaw,uawPercentageChange,volume,volumePercentageChange,balance,balancePercentageChange
+13,OpenSea,78,-17.02,42,-44.0,18.12,-65.17,145.07,0.83
+257,0x Protocol,968,-25.88,1246,-6.67,3593086.62,293.74,8373.76,0.47
+328,AirSwap,0,0.0,0,0.0,0.0,0.0,1.04,-2.45
+764,Summer.fi,16,700.0,10,400.0,0.0,0.0,81196.48,-0.08
+1254,RigoBlock,0,0.0,0,0.0,0.0,0.0,245922.93,5.98
+1528,1inch Network,389,14.08,364,7.69,2637259.43,191.54,1016.93,-0.24
+1592,Tornado Cash,0,0.0,0,-100.0,0.0,0.0,21631919.78,-0.26
+1627,PoolTogether,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+1699,ParaSwap,606,-16.53,684,3.17,3528382.78,-17.66,111871.08,-0.42
+3673,Actifit,0,0.0,0,0.0,0.0,0.0,,
